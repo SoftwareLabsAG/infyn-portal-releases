@@ -1,9 +1,9 @@
 {
   "product": "infyn-portal",
   "host": "infyn.net",
-  "version": "1.15.0",
-  "commit": "6cea050",
-  "date": "2026-10-08T23:15:32Z",
+  "version": "1.15.1",
+  "commit": "fcf0637",
+  "date": "2026-10-23T17:44:44Z",
   "manifest": "SHA256SUMS",
   "signatures": {
     "minisig": "SHA256SUMS.minisig",
