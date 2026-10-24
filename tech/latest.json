@@ -1,9 +1,9 @@
 {
   "product": "infyn-tech",
   "host": "tech.infyn.net",
-  "version": "1.0.0",
-  "commit": "0c70aea",
-  "date": "2026-10-24T14:43:03Z",
+  "version": "1.0.1",
+  "commit": "0138ea2",
+  "date": "2026-10-24T16:38:28Z",
   "manifest": "SHA256SUMS",
   "signatures": {
     "minisig": "SHA256SUMS.minisig",
